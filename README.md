@@ -1,5 +1,6 @@
-# urban-theme
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
+# Oriental aupenn Blog
 
-Live-Demo: https://narkotyk.netlify.app
+This project was created with the intention of invigorating my sense of curiousity with various topics and driving myself to write more. 
+
+The site utilizes the **Urban Theme** Jekyll theme. 
