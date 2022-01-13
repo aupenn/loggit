@@ -10,7 +10,10 @@ preview: /photos/winterbreak_thumbnail.jpg
 Albeit a bit late, 2021 was a busy year. During the holidays, my family had caught COVID. However, my family was determined to enjoy 
 our time together. We spent a large amount of time building festive puzzles, competiting with various board games, decorating cookies together, and more. 
 
-![Snowman Gingerbread Cookie](/photos/snowgingerbreadman.JPG)
+
+<p align="center">
+  <img src="http://aupenn.tk/photos/snowgingerbreadman.JPG" />
+</p>
 
 In addition to the various activities I mentioned, my family also watched a few films. I missed the majority of these films. However, I joined my family for one movie
 of my choice. On a whim, I chose a film that a friend casually recommended and I believe it has become one of my favorite movies. 
