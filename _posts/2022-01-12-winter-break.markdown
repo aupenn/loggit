@@ -2,7 +2,7 @@
 layout: post
 title:  "Winter Break"
 date:   2022-01-12 23:37:00
-preview: /photos/winterbreak_thumbnail.jpg 
+preview: /photos/winterbreak_thumbnail.jpg
 ---
 
 ![Forest Covered in Snow](/photos/winterbreak_real.JPG)
