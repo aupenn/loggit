@@ -14,6 +14,7 @@ permalink: /games/
 * Infra
 * Rune Factory 4
 * Utawarerumono: Prelude to the Fallen
+* Terranigma
 
 ### *Finished Games 2021*
 * Ultrakill (again)
