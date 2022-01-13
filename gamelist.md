@@ -1,3 +1,9 @@
+---
+layout: page
+title: games
+permalink: /games/
+---
+
 ## Games I'm Currently Playing
 * Project Zomboid
 * Factorio
