@@ -1,6 +1,6 @@
 # Site settings
-title: aupenn blog
-email: your-email@domain.com
+title: "aupenn's blog"
+#email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Random assortment of thoughts and interests.
 baseurl: ""
