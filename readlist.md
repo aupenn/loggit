@@ -1,3 +1,8 @@
+---
+layout: page
+title: reading
+permalink: /reading/
+---
 # Manga I'm Reading
 * Dungeon Meshi
 * Witch Hat Atelier
