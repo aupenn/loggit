@@ -16,7 +16,9 @@ our time together. We spent a large amount of time building festive puzzles, com
 </p>
 
 In addition to the various activities I mentioned, my family also watched a few films. I missed the majority of these films. However, I joined my family for one movie
-of my choice. On a whim, I chose a film that a friend casually recommended and I believe it has become one of my favorite movies. 
+of my choice. 
+
+<!-- On a whim, I chose a film that a friend casually recommended and I believe it has become one of my favorite movies. 
 
 ![12 Angry Men Poster](/photos/12angrymen.jpg)
 
@@ -28,6 +30,4 @@ because of its characters. The characters themselves feel like legitimate people
 they largely find themselves coming to terms with the decision they have to make and the responsibilty they've been trusted with. The various perspectives and mindsets
 at play throughout the film make it a compelling drama and one I could easily recommend. Frankly, I find it to be a must-watch and would encourage you to place it 
 at the top of your watchlist. 
-
-
-
+-->
