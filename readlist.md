@@ -8,6 +8,7 @@ permalink: /reading/
 * Witch Hat Atelier
 * Sakamoto Days
 * Bard Leon
+* One Piece
 
 ### *Manga I Plan on Reading*
 * Sousou no Frieren
