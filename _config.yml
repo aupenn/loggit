@@ -7,7 +7,7 @@ baseurl: ""
 #baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
 
 url: "http://aupenn.tk" # the base hostname & protocol for your site
-twitter_username: aupenn
+#twitter_username: aupenn
 #github_username:  aupenn
 
 # Build settings
