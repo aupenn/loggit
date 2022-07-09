@@ -5,6 +5,26 @@ date:   2022-07-08 23:37:00
 preview: /photos/winterbreak_thumbnail.jpg
 ---
 
+If you are having trouble finding games, here is a long list of titles. I'll generally categorize them into the following categories:
+
+- ARPG
+- Action-Adventure
+- FPS
+- Survival Horror
+- Survival
+- Old-School Shooters
+- Roguelites
+- Roguelikes
+- Strategy
+- CRPG
+- Sandbox
+- Immersive Sim
+- Top-Down Shooter
+- Metroidvania
+- RPG
+- Stealth
+
+
 I have compiled a list of games to share with friends. I plan on revising this and then re-writing this list, providing more details and possibly going more in-depth. Nonetheless, if you find yourself staring at your game library unsure of what to play and unsure what to purchase in the store, take a look through this list.
 Many of these games will be older and feature clunky controls, mechanics, or a variety of other things that make it seem very dated. Despite that, I encourage you to view it as a product of its time and simply resist the urge to compare it to games released in the present year with years of refined technology, techniques, and design philosophy. Many of these titles have had an influence on games released today and you may be surprised to learn how many have influenced major titles you know today. 
 
