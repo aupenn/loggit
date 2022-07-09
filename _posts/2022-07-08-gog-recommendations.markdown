@@ -32,7 +32,7 @@ Horror is a very broad genre. As such, I've only listed items that have notable 
 * **[Dusk](https://www.gog.com/en/game/dusk)**
 > In [this Quake-like old-school shooter](https://www.youtube.com/watch?v=CSv43cB6aME), blast your way through the endless backwater culstists, possessed militants, and otherworldly threats.
 
-* **[FEAR](https://www.gog.com/en/game/fear_platinum)
+* **[FEAR](https://www.gog.com/en/game/fear_platinum)**
 > [Video](https://www.youtube.com/watch?v=1Z-oSpuIhw4)
 
 * **[The Evil Within 1](https://www.gog.com/en/game/the_evil_within)**
