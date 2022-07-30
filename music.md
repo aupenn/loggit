@@ -8,7 +8,7 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 
 | Artist | Album | Genre | Style | Year | 
 | ------ | ----- | ----- | ----- | ---- | 
-| Panchiko | D>E>A>T>H>ME>T>A>L | Electronic, Rock, Pop | Shoegaze, Lo-Fi, Glitch | 2000 |
+| Panchiko | D>E>A>T>H>M>E>T>A>L | Electronic, Rock, Pop | Shoegaze, Lo-Fi, Glitch | 2000 |
 | Taeko Onuki | Mignonne | Jazz, Funk/Soul, Pop | Soul, Jazz-Funk, City Pop, Kayōkyoku | 1978 |
 | Taeko Onuki | Sunshower | Jazz, Funk/Soul, Pop | Soul, Jazz-Funk, Funk, City Pop | 1977 |
 | Tatsu Yamashita | Ride on Time | Funk/Soul, Pop | City Pop, Disco, Funk, Soul | 1980 |
