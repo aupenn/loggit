@@ -1,3 +1,9 @@
+---
+layout: page
+title: music
+permalink: /music/
+---
+
 I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) to find the styles and genres (with a few exceptions). Without diving into why, I'm largely going to just list what I listen to. For now, I like everything equally. I just listen to whatever I'm in the mood for. This list will be all over the map so apologies about it not being the most organized.
 
 | Artist | Album | Genre | Style | Year | 
