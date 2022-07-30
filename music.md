@@ -8,8 +8,15 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Tatsu Yamashita | Ride on Time | Funk/Soul, Pop | City Pop, Disco, Funk, Soul | 1980 |
 | Yoasobi | The Book | Pop | J-Pop | 2021 |
 | Yoasobi | The Book 2 | Pop | J-Pop | 2021 |
+| Lamp (ランプ) | 恋人へ | Pop | J-Pop | 2004 | 
+| Lamp (ランプ) | 木洩陽通りにて | Jazz, Funk/Soul | (None Listed) | 2005 | 
 | Sweet Trip | You Will Never Know Why | Electronic, Rock | Shoegaze, Indie Rock, Dream Pop | 2009 | 
 | The Last Shadow Puppets | The Age of The Understatement | Rock | Alternative Rock, Indie Rock | 2008 |
+| Thundercat | Drunk | Electronic, Hip Hop, Jazz, Funk/Soul | Acid Jazz, Contemporary R&B, Downtempo, Fusion, Neo Soul | 2017 | 
+| Deltron 3030 | Deltron 3030 | Hip Hop | (None Listed) | 2000 |
+| Gorillaz | Plastic Beach | Electronic, Hip Hop, Pop | Leftfield, Electro, Synth-Pop | 2010 |
+| Gorillaz | Demon Days | Electronic, Hip Hop, Rock, Funk/Soul | Trip Hop, Pop Rap, Pop Rock, Downtempo | 2005 | 
+| Gorillaz | Song Machine Season One | Electronic | Dance-Pop | 2020 | 
 | Tame Impala | The Slow Rush | Electronic, Rock, Pop | Alternative Rock, Psychedelic Rock, Dance-pop, Leftfield, Soft Rock | 2020 |
 | Tame Impala | Currents | Rock | Indie Rock, Psychedelic Rock | 2015 |
 | Fleet Foxes | Shore | Rock, Pop, Folk, World, Country | Folk Rock, Indie Rock | 2020 | 
@@ -27,7 +34,9 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Radiohead | Kid A | Electronic, Rock | Alternative Rock, IDM, Experimental | 2000 |
 | Purple Mountains | Purple Mountains | Rock, Pop, Folk, World, Country | (Nothing Listed) | 2019 |
 | Tomita | Snowflakes Are Dancing | Electronic, Classical | Modern Classical, Modern | 1974 |
+| YĪN YĪN | The Rabbit That Hunts Tigers | Rock, Funk/Soul, Folk, World, Country | Psychedelic Rock, Instrumental, Disco, Funk | 2019 |
 | Aphex Twin | ...I Care Because You Do | Electronic | IDM, Techno, Ambient, Experimental, Acid | 1995 | 
 | Aphex Twin | Selected Ambient Works Volume II | Electronic | Experimental, Ambient, Dark Ambient | 1994 | 
 | Steve Roach | Structures From Silence | Electronic | Minimal, Ambient | 1984 | 
 | Shum | Levegő | Electronic | Ambient | 2018 | 
+| Hello Meteor | Causality Violations | Synthwave, Ambient, Chillwave, New Age, Deep House | 2017 |
