@@ -25,8 +25,10 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Tender | Armour EP | Electronic, Hip Hop | Synth-pop | 2015 |
 | Saint Motel | Saintmotelevision | Rock | Indie Rock | 2016 |
 | MGMT | Little Dark Age | Electronic, Rock, Pop | New Wave, Synth-pop, Synthwave | 2018 |
+| Parquet Courts | Wide Awake! | Rock | Indie Rock | 2018 |
 | Tame Impala | The Slow Rush | Electronic, Rock, Pop | Alternative Rock, Psychedelic Rock, Dance-pop, Leftfield, Soft Rock | 2020 |
 | Tame Impala | Currents | Rock | Indie Rock, Psychedelic Rock | 2015 |
+| City And Colour | Bring Me Your Love | Rock | Indie Rock | 2008 |
 | Fleet Foxes | Shore | Rock, Pop, Folk, World, Country | Folk Rock, Indie Rock | 2020 | 
 | Fleet Foxes | Helplessness Blues | Rock, Folk, World, Country | Indie Rock, Folk | 2011 | 
 | George Harrison | All Things Must Pass | Rock | Pop Rock | 1970 |
