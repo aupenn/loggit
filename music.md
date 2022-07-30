@@ -6,10 +6,12 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Taeko Onuki | Mignonne | Jazz, Funk/Soul, Pop | Soul, Jazz-Funk, City Pop, Kayōkyoku | 1978 |
 | Taeko Onuki | Sunshower | Jazz, Funk/Soul, Pop | Soul, Jazz-Funk, Funk, City Pop | 1977 |
 | Tatsu Yamashita | Ride on Time | Funk/Soul, Pop | City Pop, Disco, Funk, Soul | 1980 |
+| Masayoshi Takanaka | All Of Me | Jazz, Funk/Soul | Fusion, Jazz-Funk, Disco | 1979 |
 | Yoasobi | The Book | Pop | J-Pop | 2021 |
 | Yoasobi | The Book 2 | Pop | J-Pop | 2021 |
 | Lamp (ランプ) | 恋人へ | Pop | J-Pop | 2004 | 
 | Lamp (ランプ) | 木洩陽通りにて | Jazz, Funk/Soul | (None Listed) | 2005 | 
+| The 5th Dimension | The Age of Aquarius | Funk/Soul | Soul | 1969 | 
 | Sweet Trip | You Will Never Know Why | Electronic, Rock | Shoegaze, Indie Rock, Dream Pop | 2009 | 
 | The Last Shadow Puppets | The Age of The Understatement | Rock | Alternative Rock, Indie Rock | 2008 |
 | Thundercat | Drunk | Electronic, Hip Hop, Jazz, Funk/Soul | Acid Jazz, Contemporary R&B, Downtempo, Fusion, Neo Soul | 2017 | 
@@ -17,6 +19,7 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Gorillaz | Plastic Beach | Electronic, Hip Hop, Pop | Leftfield, Electro, Synth-Pop | 2010 |
 | Gorillaz | Demon Days | Electronic, Hip Hop, Rock, Funk/Soul | Trip Hop, Pop Rap, Pop Rock, Downtempo | 2005 | 
 | Gorillaz | Song Machine Season One | Electronic | Dance-Pop | 2020 | 
+| Saint Motel | Saintmotelevision | Rock | Indie Rock | 2016 |
 | Tame Impala | The Slow Rush | Electronic, Rock, Pop | Alternative Rock, Psychedelic Rock, Dance-pop, Leftfield, Soft Rock | 2020 |
 | Tame Impala | Currents | Rock | Indie Rock, Psychedelic Rock | 2015 |
 | Fleet Foxes | Shore | Rock, Pop, Folk, World, Country | Folk Rock, Indie Rock | 2020 | 
