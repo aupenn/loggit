@@ -26,6 +26,8 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Saint Motel | Saintmotelevision | Rock | Indie Rock | 2016 |
 | MGMT | Little Dark Age | Electronic, Rock, Pop | New Wave, Synth-pop, Synthwave | 2018 |
 | Parquet Courts | Wide Awake! | Rock | Indie Rock | 2018 |
+| Tally Hall | Marvin's Marvelous Mechanical Museum | Rock, Pop | Pop Rock, Indie Rock | 2005 | 
+| Tally Hall | Good & Evil | Rock, Pop | Alternative Rock, Pop Rock | 2011 | 
 | Tame Impala | The Slow Rush | Electronic, Rock, Pop | Alternative Rock, Psychedelic Rock, Dance-pop, Leftfield, Soft Rock | 2020 |
 | Tame Impala | Currents | Rock | Indie Rock, Psychedelic Rock | 2015 |
 | City And Colour | Bring Me Your Love | Rock | Indie Rock | 2008 |
@@ -53,3 +55,4 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | How To Disappear Completely | Seraphim | Electronic | Ambient, Drone, Experimental | 2019 |
 | Hello Meteor | Causality Violations | Synthwave, Ambient, Chillwave, New Age, Deep House | 2017 |
 | pilotredsun | Achievement | Electronic | Experimental, Chiptune, Breakbeat, IDM, Drone, Drum n Bass, Synth-pop, Techno | 2016 |
+| HOME | Odyssey | Electronic | Synthwave, Chillwave | 2014 | 
