@@ -21,6 +21,8 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Gorillaz | Plastic Beach | Electronic, Hip Hop, Pop | Leftfield, Electro, Synth-Pop | 2010 |
 | Gorillaz | Demon Days | Electronic, Hip Hop, Rock, Funk/Soul | Trip Hop, Pop Rap, Pop Rock, Downtempo | 2005 | 
 | Gorillaz | Song Machine Season One | Electronic | Dance-Pop | 2020 | 
+| Tender | Tender EP | Rock | Indie Rock | 2016 |
+| Tender | Armour EP | Electronic, Hip Hop | Synth-pop | 2015 |
 | Saint Motel | Saintmotelevision | Rock | Indie Rock | 2016 |
 | MGMT | Little Dark Age | Electronic, Rock, Pop | New Wave, Synth-pop, Synthwave | 2018 |
 | Tame Impala | The Slow Rush | Electronic, Rock, Pop | Alternative Rock, Psychedelic Rock, Dance-pop, Leftfield, Soft Rock | 2020 |
