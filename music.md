@@ -59,6 +59,6 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Steve Roach | Structures From Silence | Electronic | Minimal, Ambient | 1984 | 
 | Shum | Levegő | Electronic | Ambient | 2018 | 
 | How To Disappear Completely | Seraphim | Electronic | Ambient, Drone, Experimental | 2019 |
-| Hello Meteor | Causality Violations | Synthwave, Ambient, Chillwave, New Age, Deep House | 2017 |
+| Hello Meteor | Causality Violations | Electronic | Synthwave, Ambient, Chillwave, New Age, Deep House | 2017 |
 | pilotredsun | Achievement | Electronic | Experimental, Chiptune, Breakbeat, IDM, Drone, Drum n Bass, Synth-pop, Techno | 2016 |
 | HOME | Odyssey | Electronic | Synthwave, Chillwave | 2014 | 
