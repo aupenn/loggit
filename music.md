@@ -9,6 +9,7 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Masayoshi Takanaka | All Of Me | Jazz, Funk/Soul | Fusion, Jazz-Funk, Disco | 1979 |
 | Casiopea | Mint Jams | Jazz | Fusion | 1982 | 
 | Lamp (ランプ) | 木洩陽通りにて | Jazz, Funk/Soul | (None Listed) | 2005 | 
+| Ryo Fukui | Scenery | Jazz | Bop, Modal, Cool Jazz | 1976 | 
 | The 5th Dimension | The Age of Aquarius | Funk/Soul | Soul | 1969 | 
 | Yoasobi | The Book | Pop | J-Pop | 2021 |
 | Yoasobi | The Book 2 | Pop | J-Pop | 2021 |
@@ -21,6 +22,7 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Gorillaz | Demon Days | Electronic, Hip Hop, Rock, Funk/Soul | Trip Hop, Pop Rap, Pop Rock, Downtempo | 2005 | 
 | Gorillaz | Song Machine Season One | Electronic | Dance-Pop | 2020 | 
 | Saint Motel | Saintmotelevision | Rock | Indie Rock | 2016 |
+| MGMT | Little Dark Age | Electronic, Rock, Pop | New Wave, Synth-pop, Synthwave | 2018 |
 | Tame Impala | The Slow Rush | Electronic, Rock, Pop | Alternative Rock, Psychedelic Rock, Dance-pop, Leftfield, Soft Rock | 2020 |
 | Tame Impala | Currents | Rock | Indie Rock, Psychedelic Rock | 2015 |
 | Fleet Foxes | Shore | Rock, Pop, Folk, World, Country | Folk Rock, Indie Rock | 2020 | 
@@ -44,5 +46,6 @@ I'm terrible at categorizing music so I used [Discogs](https://www.discogs.com) 
 | Aphex Twin | Selected Ambient Works Volume II | Electronic | Experimental, Ambient, Dark Ambient | 1994 | 
 | Steve Roach | Structures From Silence | Electronic | Minimal, Ambient | 1984 | 
 | Shum | Levegő | Electronic | Ambient | 2018 | 
+| How To Disappear Completely | Seraphim | Electronic | Ambient, Drone, Experimental | 2019 |
 | Hello Meteor | Causality Violations | Synthwave, Ambient, Chillwave, New Age, Deep House | 2017 |
 | pilotredsun | Achievement | Electronic | Experimental, Chiptune, Breakbeat, IDM, Drone, Drum n Bass, Synth-pop, Techno | 2016 |
