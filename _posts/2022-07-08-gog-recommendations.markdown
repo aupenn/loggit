@@ -2,7 +2,7 @@
 layout: post
 title:  "GOG Game Recommendations"
 date:   2022-07-08 23:37:00
-preview: /photos/winterbreak_thumbnail.jpg
+preview: https://aupenn.github.io/oriental/photos/winterbreak_thumbnail.jpg
 ---
 
 If you are having trouble finding games, here is a long list of titles. I'll generally categorize them into the following categories:
