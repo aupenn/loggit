@@ -8,7 +8,7 @@ baseurl: "/oriental"
 
 url: "https://aupenn.github.io/" # the base hostname & protocol for your site
 #twitter_username: aupenn
-github_username:  aupenn
+#github_username: aupenn
 
 # Build settings
 markdown: kramdown
