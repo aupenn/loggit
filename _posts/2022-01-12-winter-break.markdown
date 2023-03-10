@@ -2,7 +2,7 @@
 layout: post
 title:  "Winter Break"
 date:   2022-01-12 23:37:00
-preview: https://aupenn.github.io/oriental/photos/winterbreak_thumbnail.jpg
+preview: https://aupenn.github.io/loggit/photos/winterbreak_thumbnail.jpg
 ---
 
 ![Forest Covered in Snow](https://aupenn.github.io/loggit/photos/winterbreak_real.JPG)
