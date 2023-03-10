@@ -5,14 +5,14 @@ date:   2022-01-12 23:37:00
 preview: https://aupenn.github.io/oriental/photos/winterbreak_thumbnail.jpg
 ---
 
-![Forest Covered in Snow](https://aupenn.github.io/oriental/photos/winterbreak_real.JPG)
+![Forest Covered in Snow](https://aupenn.github.io/loggit/photos/winterbreak_real.JPG)
 
 Albeit a bit late, 2021 was a busy year. During the holidays, my family had caught COVID. However, my family was determined to enjoy 
 our time together. We spent a large amount of time building festive puzzles, competiting with various board games, decorating cookies together, and more. 
 
 
 <p align="center">
-  <img src="https://aupenn.github.io/oriental/photos/snowgingerbreadman.JPG" />
+  <img src="https://aupenn.github.io/loggit/photos/snowgingerbreadman.JPG" />
 </p>
 
 <!--
