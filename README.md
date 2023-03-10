@@ -1,5 +1,5 @@
 
-# Oriental aupenn Blog
+# Loggit aupenn Blog
 
 This project was created with the intention of invigorating my sense of curiousity with various topics and driving myself to write more. 
 
